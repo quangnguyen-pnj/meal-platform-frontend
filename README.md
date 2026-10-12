@@ -1,7 +1,7 @@
-# meal-platform-web
+# meal-platform-frontend
 
 Frontend cua nen tang quan ly suat an nha may. Day la repository web doc lap,
-giao tiep voi backend `meal-platform-api` qua REST/JSON.
+giao tiep voi backend `meal-platform-backend` qua REST/JSON.
 
 ## Cong nghe
 
